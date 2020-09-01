@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem.lf-flores.vercel.app/)](https://open.spotify.com/user/blackflan)
+[![Spotify](https://novatorem-2.vercel.app/api/spotify)](https://open.spotify.com/user/blackflan)
 
 <!--
 **LF-Flores/LF-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hello there 🔭
 
 [![Spotify](https://novatorem-2.vercel.app/api/spotify)](https://open.spotify.com/user/blackflan)
+
+### Languages and tools:
+<img align="left" alt="Julia" width="54px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />
+<img align="left" alt="Python" width="54px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/python/python.png" />
+<img align="left" alt="R" width="54px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/r/r.png" />
+<img align="left" alt="LaTeX" width="54px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
 <!--
 **LF-Flores/LF-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

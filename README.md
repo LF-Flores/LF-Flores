@@ -1,5 +1,7 @@
 ### Hello there 🔭
 
+### Now Playing... 🎼🎶
+
 [![Spotify](https://novatorem-2.vercel.app/api/spotify)](https://open.spotify.com/user/blackflan)
 
 ### Languages and tools:
